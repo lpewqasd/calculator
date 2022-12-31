@@ -9,3 +9,14 @@ D:\Project\Test\calculator\calculator\obj\Debug\calculator.csproj.GenerateResour
 D:\Project\Test\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
 D:\Project\Test\calculator\calculator\obj\Debug\calculator.exe
 D:\Project\Test\calculator\calculator\obj\Debug\calculator.pdb
+D:\Project\Test\calculator1\calculator\bin\Debug\calculator.exe.config
+D:\Project\Test\calculator1\calculator\bin\Debug\calculator.exe
+D:\Project\Test\calculator1\calculator\bin\Debug\calculator.pdb
+D:\Project\Test\calculator1\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+D:\Project\Test\calculator1\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+D:\Project\Test\calculator1\calculator\obj\Debug\calculator.Form1.resources
+D:\Project\Test\calculator1\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Project\Test\calculator1\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\Project\Test\calculator1\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\Project\Test\calculator1\calculator\obj\Debug\calculator.exe
+D:\Project\Test\calculator1\calculator\obj\Debug\calculator.pdb
