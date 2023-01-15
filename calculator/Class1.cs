@@ -6,10 +6,6 @@ using System.Threading.Tasks;
 
 namespace calculator
 {
-    internal class Class1
-    {
-
-    }
     public abstract class Cal
     {
         public double X { get; set; }
@@ -20,28 +16,28 @@ namespace calculator
     {
         public override double Answer()
         {
-            return X + Y;
+            return Y + X;
         }
     }
     public class CalSub : Cal
     {
         public override double Answer()
         {
-            return X - Y;
+            return Y - X;
         }
     }
     public class CalMul : Cal
     {
         public override double Answer()
         {
-            return X * Y;
+            return Y * X;
         }
     }
     public class CalDiv : Cal
     {
         public override double Answer()
         {
-            return X / Y;
+            return Y / X;
         }
     }
 }
